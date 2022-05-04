@@ -1,0 +1,16 @@
+table {
+    color: #ffffff !important;
+}
+
+.card {
+    margin-top: 10% !important;
+    width: auto;
+    padding: 3%;
+    
+}
+.btn-outline-success, .btn-outline-danger {
+    color: #ffffff;
+}
+.table-overflow{
+    overflow-x:auto;
+}
