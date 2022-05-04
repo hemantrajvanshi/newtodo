@@ -73,21 +73,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 I dont have linux OS so i used VM - 
 
 1 - Download Virutalbox & Ubuntu 20.04 iso file.
+
 2 - Install VM & Create OS of Ubuntu 20.04 with the help of iso file.
+
 3 - update or upgrade ubuntu 20.04 (sudo apt-get update)
+
 4 - install node js 
     - curl -sL https://deb.nodesource.com/setup_14.x | bash -
     - sudo apt install -y nodejs	
 	- node -v
+
 5 - install npm 
     - sudo apt install npm
 	- npm -v
+
 6 - instal create react app
   - sudo npm -g install create-react-app
   - create-react-app --version
+
 7 - now create a react app
   - create-react-app todo-app
+
 8 - cd todo-app
+
 9 - install Bootstrap
+
 10 - install React router dom
+
 11 - Start Designing.
+12 - i have used react hook i.e useState in login page.
